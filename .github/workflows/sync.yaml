@@ -1,6 +1,6 @@
 # .github/workflows/git-sync.yml
-
-on: 
+name: Sync Repository to MindsSpace Organization
+on:
   push:
     branches:
       - main
